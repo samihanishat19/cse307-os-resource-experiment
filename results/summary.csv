@@ -1,0 +1,10 @@
+Configuration,RAM_GB,vCPU,Run,Execution_Time_s,Wall_Time_s,CPU_Percent,Major_Page_Faults,Minor_Page_Faults,Max_RSS_KB
+Baseline,4,2,1,7.97,8.24,99,0,79313,323576
+Baseline,4,2,2,6.49,6.76,99,0,79313,323764
+Baseline,4,2,3,7.34,7.61,99,0,79313,323516
+Low_Memory,2,2,1,6.47,6.82,98,3,79312,323744
+Low_Memory,2,2,2,6.59,6.89,98,4,79311,323620
+Low_Memory,2,2,3,6.83,7.14,98,1,79313,323760
+Low_CPU_Memory,2,1,1,7.48,7.87,91,7,79308,323632
+Low_CPU_Memory,2,1,2,7.02,7.34,93,1,79312,323708
+Low_CPU_Memory,2,1,3,6.84,7.15,96,0,79312,323596
